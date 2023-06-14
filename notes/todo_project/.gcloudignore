@@ -1,0 +1,5 @@
+todo_venv/
+__pycache
+db.sqllite3
+.env
+.gitignore
